@@ -1,0 +1,23 @@
+https://git-scm.com/download/win
+git config --global user.name "Nikay Nipp"
+git config --global user.email "nnipp@cisco.com"
+git clone https://github.com/CiscoPhoenixProject/Eval-Form.git
+git add test.txt
+git commit -m "this is a test"
+git push
+git branch
+git branch nik
+git checkout nik
+git checkout master
+git merge master
+git push --set-upstream origin nik
+git checkout 01e7dba
+git reset HEAD test.txt
+git rm test.txt
+
+Pull request,
+Merge pull request
+
+
+
+
