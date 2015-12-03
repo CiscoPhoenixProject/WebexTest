@@ -12,11 +12,12 @@ git checkout master
 git merge master
 git push --set-upstream origin nik
 git checkout 01e7dba
-git reset HEAD test.txt
+
 git rm test.txt
 
 Pull request,
 Merge pull request
+This is the new version
 
 
 
